@@ -1,4 +1,4 @@
-This is a Jupyter Notebook file to scrap fuel prices from those forecourt operators that took part in the voluntary fuel price data collection service
+This is a Jupyter Notebook file to scrape fuel prices from those forecourt operators that took part in the voluntary fuel price data collection service
 operated by the Competitions and Marketing Authority of the UK government.
 
 The service has since been superseded by the UK government Fuel Finder service - however, as of 17 March, 2026, the voluntary data is still being
